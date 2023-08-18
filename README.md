@@ -1,6 +1,6 @@
 # Flappy Pasha Game Assets
 
-![Flappy Pasha Banner](https://drive.google.com/file/d/1qFE3Z94jXxYoldukG0bPYk9IEcmYOZ-v/view?usp=drive_link)
+<iframe src="https://drive.google.com/file/d/1qFE3Z94jXxYoldukG0bPYk9IEcmYOZ-v/view?usp=drive_link" width="640" height="480"></iframe>
 
 Welcome to the Flappy Pasha Game Assets repository! This repository contains all the graphical and audio assets used in the development of the Flappy Pasha game.
 
